@@ -15,7 +15,9 @@ Each of us analyzed a different dataset and created their own sub-metric. These 
 
 Dataset(s) Used
 Monthly Criminal Activity Dataset (WPRDC)
+
 Allegheny County Primary Care Access (WPRDC)
+
 Allegheny County Restaurant/Food Facility Inspections and Locations (WPRDC)
 
 
