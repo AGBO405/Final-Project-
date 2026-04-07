@@ -14,6 +14,7 @@ This project explores the question: What is the best neighborhood in Pittsburgh?
 Each of us analyzed a different dataset and created their own sub-metric. These sub-metrics were then combined into a single overall score to determine the “best” neighborhood.
 
 Dataset(s) Used
+
 Monthly Criminal Activity Dataset (WPRDC)
 
 Allegheny County Primary Care Access (WPRDC)
