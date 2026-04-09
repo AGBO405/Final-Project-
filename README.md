@@ -5,7 +5,7 @@ Team Name:
 (       something   )
 
 Team Members:
-Aiden Gerhart (AJG381@pitt.edu), AJ Marcotte, Joshua Kim
+Aiden Gerhart (AJG381@pitt.edu), AJ Marcotte, Joshua Kim(JMK359@pitt.edu)
 
 Project Overview
 
