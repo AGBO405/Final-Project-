@@ -5,7 +5,7 @@ Team Name:
 (       something   )
 
 Team Members:
-Aiden Gerhart, ###, ###
+Aiden Gerhart, AJ Marcotte, ###
 
 Project Overview
 
@@ -17,7 +17,7 @@ Dataset(s) Used
 
 Monthly Criminal Activity Dataset (WPRDC)
 
-Allegheny County Primary Care Access (WPRDC)
+Housing 2010 Dataset (WPRDC)
 
 Allegheny County Restaurant/Food Facility Inspections and Locations (WPRDC)
 
