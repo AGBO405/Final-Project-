@@ -5,11 +5,8 @@ This project aims to find the "best" neighborhood in pittsburgh, using a data dr
 Metrics used ------------------------------------------------------------------------------------------------
 
 To evaluate the neighborhoods, we each combined our metrics into an overall score. Each metric represents a different aspect of what makes each neighborhood "good"
-
 Safety, which was my metric, was measured by the total number of reported crime incidents in each neighborhood, so fewer crimes meant a better score.
-
 Housing was calculated based on high occupancy rates, low vacancy rates, and low forclosure rates. Which suggest how likely people actually want to live in these neighborhoods.
-
 Employment was based on how many residents in each neighborhood are employed, which would suggest stronger economic stability from that neighborhood.
 
 The "Best" neighborhood ------------------------------------------------------------------------------------------
