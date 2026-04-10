@@ -1,0 +1,21 @@
+Introduction
+
+This project aims to find the "best" neighborhood in pittsburgh, using a data driven approach. Our group defined "best" thought three different factors, Housing, Employment, and Monthly crime rate. We each focused on one dataset, mine being Monthly Crime rate. I used the Western Pennsylvania Reginoal Data Center (WPRDC), and I explored how crime varies across different neighborhoods, and chose to use total crime incidents as a simple yet clear point.
+
+Metrics used ------------------------------------------------------------------------------------------------
+
+To evaluate the neighborhoods, we each combined our metrics into an overall score. Each metric represents a different aspect of what makes each neighborhood "good"
+
+Safety, which was my metric, was measured by the total number of reported crime incidents in each neighborhood, so fewer crimes meant a better score.
+
+Housing was calculated based on high occupancy rates, low vacancy rates, and low forclosure rates. Which suggest how likely people actually want to live in these neighborhoods.
+
+Employment was based on how many residents in each neighborhood are employed, which would suggest stronger economic stability from that neighborhood.
+
+The "Best" neighborhood ------------------------------------------------------------------------------------------
+
+Using the safety dataset, I found that the neighborhood with the lowest ammount of crime was Chartiers City, which makes it the best neighborhood if you are only interested in Crime rate. If you want to look at the "best" neighborhood using all the metrics combined, you will find that Chartiers City isnt on either of the best housing or employment lists. Using all of the metrics, we found that the best neighborhood was between New Homestead and Swisshelm Park. Swisshelm park has a higher housing score than New Homestead, but New Homestead beats out Swisshelm park with a lower crime rate and higher employment score. So "best" really just depends on your personal preference because they are both very close.
+
+Conclusion ---------------------------------------------------------------------------------------------------------
+
+The neighborhoods which are identified as best in each category are not always the best in overall quality. The example of Chartiers city is a great example, it has the lowest crime rate out of any of the cities, but it also doesnt even show up in the top 10 of the other two categories. Factors like personal experience, lifestyle, and community play a big role when someone selects their neighborhood, not just the factors we selected. Me personally I would enjoy living in Point Breeze, because it has a great housing score, as well as it being located very close to one of my favorite climbing gyms. So, overall the data driven method of finding the "best" neighborhood can help highlight each neighborhoods individual positives, but when it comes down to the choice, its really just personal preference.
