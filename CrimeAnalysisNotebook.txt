@@ -1,6 +1,8 @@
 Introduction
 
-This project aims to find the "best" neighborhood in pittsburgh, using a data driven approach. Our group defined "best" thought three different factors, Housing, Employment, and Monthly crime rate. We each focused on one dataset, mine being Monthly Crime rate. I used the Western Pennsylvania Reginoal Data Center (WPRDC), and I explored how crime varies across different neighborhoods, and chose to use total crime incidents as a simple yet clear point.
+This project aims to find the "best" neighborhood in pittsburgh, using a data driven approach. Our group defined "best" thought three different factors, Housing, Employment, and Monthly crime rate.
+We each focused on one dataset, mine being Monthly Crime rate.
+I used the Western Pennsylvania Reginoal Data Center (WPRDC), and I explored how crime varies across different neighborhoods, and chose to use total crime incidents as a simple yet clear point.
 
 Metrics used ------------------------------------------------------------------------------------------------
 
