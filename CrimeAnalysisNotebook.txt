@@ -11,7 +11,10 @@ Employment was based on how many residents in each neighborhood are employed, wh
 
 The "Best" neighborhood ------------------------------------------------------------------------------------------
 
-Using the safety dataset, I found that the neighborhood with the lowest ammount of crime was Chartiers City, which makes it the best neighborhood if you are only interested in Crime rate. If you want to look at the "best" neighborhood using all the metrics combined, you will find that Chartiers City isnt on either of the best housing or employment lists. Using all of the metrics, we found that the best neighborhood was between New Homestead and Swisshelm Park. Swisshelm park has a higher housing score than New Homestead, but New Homestead beats out Swisshelm park with a lower crime rate and higher employment score. So "best" really just depends on your personal preference because they are both very close.
+Using the safety dataset, I found that the neighborhood with the lowest ammount of crime was Chartiers City, which makes it the best neighborhood if you are only interested in Crime rate. 
+If you want to look at the "best" neighborhood using all the metrics combined, you will find that Chartiers City isnt on either of the best housing or employment lists. Using all of the metrics, we found that the best neighborhood was between New Homestead and Swisshelm Park. 
+Swisshelm park has a higher housing score than New Homestead, but New Homestead beats out Swisshelm park with a lower crime rate and higher employment score.
+So "best" really just depends on your personal preference because they are both very close.
 
 Conclusion ---------------------------------------------------------------------------------------------------------
 
