@@ -2,7 +2,7 @@
 
 Team Name:
 
-(       something   )
+pitts qual of lyfe
 
 Team Members:
 Aiden Gerhart (AJG381@pitt.edu), AJ Marcotte (ajm634@pitt.edu), Joshua Kim(JMK359@pitt.edu)
