@@ -2,7 +2,7 @@
 
 Team Name:
 
-pitts qual of lyfe
+pitts qual of lyfe (Canvas Group 30)
 
 Team Members:
 Aiden Gerhart (AJG381@pitt.edu), AJ Marcotte (ajm634@pitt.edu), Joshua Kim(JMK359@pitt.edu)
